@@ -33,4 +33,4 @@ Determinar el ángulo óptimo del alerón delantero de un F1 para minimizar el t
 
 ## ▶️ Cómo ejecutar
 ```bash
-python F1_analysis.py
+python F1.py
